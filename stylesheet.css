@@ -23,7 +23,7 @@ nav {
 }
 
 #nav-logo {
-    margin-left: 6.21cm;
+    margin-left: 10em;
     margin-right: 10cm;
     font-family: 'Roboto Mono';
 }
@@ -50,7 +50,7 @@ nav {
 }
 
 #project-title {
-    margin-left: 6.21cm;
+    margin-left: 9.5em;
     margin-top: 40px;
     font-size: 25px;
 
@@ -68,7 +68,7 @@ nav {
     text-align: center;
     width: 75px;
     margin-top: 30px;
-    margin-left: 6.21cm;
+    margin-left: 15em;
 
 }
 
