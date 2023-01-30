@@ -23,16 +23,17 @@ nav {
 }
 
 #nav-logo {
-    margin-left: 10em;
-    margin-right: 10cm;
+    margin-left: 18%;
+    /* margin-right: 10cm; */
     font-family: 'Roboto Mono';
 }
 
-#nav-links {
+ul {
     display: inline-flex;
-    justify-content: flex-end;
-    align-items: stretch;
-
+    justify-content: end;
+    width: 80%;
+    margin-right: 22%;
+    column-gap: 15px;
 }
 
 
@@ -40,7 +41,7 @@ nav {
     list-style-type: none;
     display: inline; 
     font-family: 'Roboto Mono';
-    margin-right: 20px;
+
 
 
 }
@@ -50,7 +51,7 @@ nav {
 }
 
 #project-title {
-    margin-left: 9.5em;
+    margin-left: 18%;
     margin-top: 40px;
     font-size: 25px;
 
@@ -68,7 +69,7 @@ nav {
     text-align: center;
     width: 75px;
     margin-top: 30px;
-    margin-left: 15em;
+    margin-left: 18%;
 
 }
 
